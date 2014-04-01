@@ -1,28 +1,17 @@
-== README
+To Do List using Rails
+Created:  3/31/2014
+By: Kelly Becker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Lesson: To Do in Rails (Followed Wikipages)
 
-Things you may want to cover:
+--Make a To Do list app, with just a single model task model. Don't worry about having a checkbox for done - save marking tasks as done or not until the next step.
 
-* Ruby version
+--On the index page, let users mark tasks as done without deleting them.
 
-* System dependencies
+--Allow users to create tasks, list them out, edit them, and delete them.
 
-* Configuration
+--Have a dedicated new page.
 
-* Database creation
+--Combine the new page onto the index page.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+--Add the ability to have multiple lists.
